@@ -1,0 +1,4 @@
+venv
+app_file_structures.csv
+installed_apps.csv
+.env
